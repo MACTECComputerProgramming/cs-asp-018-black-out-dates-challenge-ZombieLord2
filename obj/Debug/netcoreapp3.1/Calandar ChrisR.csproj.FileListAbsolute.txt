@@ -1,0 +1,19 @@
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\bin\Debug\netcoreapp3.1\Calandar ChrisR.exe
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\bin\Debug\netcoreapp3.1\Calandar ChrisR.deps.json
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\bin\Debug\netcoreapp3.1\Calandar ChrisR.runtimeconfig.json
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\bin\Debug\netcoreapp3.1\Calandar ChrisR.runtimeconfig.dev.json
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\bin\Debug\netcoreapp3.1\Calandar ChrisR.dll
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\bin\Debug\netcoreapp3.1\Calandar ChrisR.pdb
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.csprojAssemblyReference.cache
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR_MarkupCompile.cache
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR_MarkupCompile.lref
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.g.resources
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.AssemblyInfoInputs.cache
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.AssemblyInfo.cs
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.csproj.CoreCompileInputs.cache
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.dll
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.pdb
+C:\Users\MaconRM180\source\repos\Chris' Stuff\Calandar ChrisR\obj\Debug\netcoreapp3.1\Calandar ChrisR.genruntimeconfig.cache
